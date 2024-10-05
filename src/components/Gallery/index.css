@@ -1,0 +1,11 @@
+/* Write your code here. */
+.bg {
+  height: 100vh;
+  background-size: cover;
+  padding: 40px;
+}
+.buttons {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
